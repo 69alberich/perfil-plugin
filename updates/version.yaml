@@ -1,0 +1,23 @@
+1.0.1:
+    - 'Initialize plugin.'
+1.0.2:
+    - 'Created table alberich_perfil_tipo_usuario'
+    - builder_table_create_alberich_perfil_tipo_usuario.php
+1.0.3:
+    - 'Updated table alberich_perfil_tipo_usuario'
+    - builder_table_update_alberich_perfil_tipo_usuario.php
+1.0.4:
+    - 'add field tipo usuario'
+    - table_update_usuario_add_fields1.php
+1.0.5:
+    - 'add field master_key'
+    - table_update_usuario_add_fields2.php
+1.0.6:
+    - 'Created table alberich_perfil_status_tarjetas'
+    - builder_table_create_alberich_perfil_status_tarjetas.php
+1.0.7:
+    - 'Created table alberich_perfil_usuario_tarjetas'
+    - builder_table_create_alberich_perfil_usuario_tarjetas.php
+1.0.8:
+    - 'Updated table alberich_perfil_usuario_tarjetas'
+    - builder_table_update_alberich_perfil_usuario_tarjetas.php

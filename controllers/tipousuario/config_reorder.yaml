@@ -1,0 +1,4 @@
+title: TipoUsuario
+modelClass: Alberich\Perfil\Models\TipoUsuario
+toolbar:
+    buttons: reorder_toolbar

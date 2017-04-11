@@ -1,0 +1,4 @@
+title: Tarjeta
+modelClass: Alberich\Perfil\Models\Tarjeta
+toolbar:
+    buttons: reorder_toolbar

@@ -1,0 +1,10 @@
+name: Tarjeta
+form: $/alberich/perfil/models/tarjeta/fields.yaml
+modelClass: Alberich\Perfil\Models\Tarjeta
+defaultRedirect: alberich/perfil/tarjeta
+create:
+    redirect: 'alberich/perfil/tarjeta/update/:id'
+    redirectClose: alberich/perfil/tarjeta
+update:
+    redirect: alberich/perfil/tarjeta
+    redirectClose: alberich/perfil/tarjeta

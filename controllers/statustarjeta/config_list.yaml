@@ -1,0 +1,11 @@
+list: $/alberich/perfil/models/statustarjeta/columns.yaml
+modelClass: Alberich\Perfil\Models\StatusTarjeta
+title: StatusTarjeta
+noRecordsMessage: 'backend::lang.list.no_records'
+showSetup: true
+showCheckboxes: true
+toolbar:
+    buttons: list_toolbar
+    search:
+        prompt: 'backend::lang.list.search_prompt'
+recordUrl: 'alberich/perfil/statustarjeta/update/:id'

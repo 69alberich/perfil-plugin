@@ -1,0 +1,19 @@
+columns:
+    id:
+        label: ID
+        type: number
+        searchable: true
+        sortable: true
+    ultimos_digitos:
+        label: Últimos 4 Digitos
+        type: text
+        searchable: true
+        sortable: true
+    created_at:
+        label: 'Fecha Creación'
+        type: datetime
+        sortable: true
+    usuario:
+        label: Usuario
+        relation: usuario
+        select: concat(name, ' ',email)

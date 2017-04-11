@@ -1,0 +1,10 @@
+name: StatusTarjeta
+form: $/alberich/perfil/models/statustarjeta/fields.yaml
+modelClass: Alberich\Perfil\Models\StatusTarjeta
+defaultRedirect: alberich/perfil/statustarjeta
+create:
+    redirect: 'alberich/perfil/statustarjeta/update/:id'
+    redirectClose: alberich/perfil/statustarjeta
+update:
+    redirect: alberich/perfil/statustarjeta
+    redirectClose: alberich/perfil/statustarjeta

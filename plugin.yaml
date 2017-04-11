@@ -1,0 +1,11 @@
+plugin:
+    name: 'alberich.perfil::lang.plugin.name'
+    description: 'alberich.perfil::lang.plugin.description'
+    author: alberich
+    icon: oc-icon-user-plus
+    homepage: ''
+#navigation:
+    #main-menu-item:
+    #    label: 'Tipos de Usuarios'
+    #    url: alberich/perfil/tipousuario
+    #    icon: icon-user-plus

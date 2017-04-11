@@ -1,0 +1,4 @@
+title: StatusTarjeta
+modelClass: Alberich\Perfil\Models\StatusTarjeta
+toolbar:
+    buttons: reorder_toolbar

@@ -1,0 +1,10 @@
+name: TipoUsuario
+form: $/alberich/perfil/models/tipousuario/fields.yaml
+modelClass: Alberich\Perfil\Models\TipoUsuario
+defaultRedirect: alberich/perfil/tipousuario
+create:
+    redirect: 'alberich/perfil/tipousuario/update/:id'
+    redirectClose: alberich/perfil/tipousuario
+update:
+    redirect: alberich/perfil/tipousuario
+    redirectClose: alberich/perfil/tipousuario
